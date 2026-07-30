@@ -11147,3 +11147,37 @@ body.popup-open{
     }
 
 }
+/* Laptop */
+@media (max-width: 1200px) {
+    .service-card {
+        opacity: 1;
+    }
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+    .service-card {
+        opacity: 1;
+    }
+}
+
+/* Large Mobile */
+@media (max-width: 768px) {
+    .service-card {
+        opacity: 1;
+    }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+    .service-card {
+        opacity: 1;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 400px) {
+    .service-card {
+        opacity: 1;
+    }
+}
